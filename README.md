@@ -9,7 +9,7 @@ This project implements a **simple DNS Resolver in Python** that manually constr
 * Establishes TCP connection with the resolved web server.
 * Sends HTTP GET requests.
 * Retrieves and displays server responses.
----
+  
 
 ## Technologies Used
 * Python
@@ -19,7 +19,7 @@ This project implements a **simple DNS Resolver in Python** that manually constr
 * DNS Protocol
 * HTTP Protocol
 * Struct Module
----
+
 ## Working Process
 
 ```text
@@ -46,7 +46,7 @@ Send HTTP GET Request
           ▼
 Receive and Display Response
 ```
----
+
 ## Project Structure
 
 ```text
@@ -56,7 +56,7 @@ DNS-Resolver/
 ├── README.md
 └── requirements.txt
 ```
----
+
 
 ## How to Run
 
@@ -81,4 +81,3 @@ Response from the web server:
 HTTP/1.1 200 OK
 ...
 ```
----
